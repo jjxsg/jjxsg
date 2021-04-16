@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jeet Jain
+- 👀 I’m interested in python, linux systems and storage solutions
+- 🌱 I’m currently learning about [Cortx Project](https://github.com/Seagate/cortx)
+- 📫 How to reach me [@zweack](https://github.com/zweack)
