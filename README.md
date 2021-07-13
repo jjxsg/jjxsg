@@ -2,6 +2,7 @@
 - 👀 I’m interested in python, linux systems and storage solutions
 - 🌱 I’m currently learning about [Cortx Project](https://github.com/Seagate/cortx)
 - 📫 Reach out to me via 
-  - [@zweack](https://github.com/zweack)
+  - [@zweack](https://github.com/zweack) [Personal GitHub Account]
   - [Linkedin](https://in.linkedin.com/in/jeetjain8)
+  - [StackOverflow](https://stackoverflow.com/users/7544320/zweack)
   - [Twitter](https://twitter.com/hereisjeet)
